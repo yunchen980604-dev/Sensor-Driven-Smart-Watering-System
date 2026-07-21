@@ -57,7 +57,10 @@ The core prototype has been built and tested successfully:
 - LCD display
 - Manual pump test
 - Automatic watering logic
+## Limitations
 
+- Soil readings vary with soil type, sensor placement, and environmental conditions.
+- The current prototype does not use the water-level sensor for automatic safety shutdown.
 ## Future Improvements
 
 - Add a more reliable water-level safety system
