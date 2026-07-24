@@ -1,5 +1,18 @@
 # Sensor-Driven Smart Watering System
 
+# From Smart Agriculture Research to an Automatic Watering Prototype
+
+I first created a school science-communication project about climate change, SCL water-retention technology, and smart agriculture. I made a poster, recorded an introduction video, displayed the project at school, and collected 30 survey responses.
+
+I then turned one idea from that project into a working computer-science prototype: a low-cost ESP32 smart watering system.
+
+The system checks whether soil is dry. If the soil is too dry, it automatically turns on a small water pump for a few seconds. An LCD screen shows the soil reading and current system status.
+
+## How It Works
+
+Soil moisture sensor → ESP32 → dryness threshold → water pump → plant
+
+In this project, I tested the sensor with real soil, calibrated the moisture threshold, assembled the hardware, debugged connection problems, and documented the process.
 ## Overview
 
 This project is a low-cost ESP32-based smart watering system. It uses a soil moisture sensor to measure soil conditions and automatically controls a small water pump when the soil becomes dry.
