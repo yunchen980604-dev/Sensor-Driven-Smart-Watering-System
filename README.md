@@ -73,6 +73,11 @@ The core prototype has been built and tested successfully:
 
 This prototype developed from my earlier science-communication project about climate change, smart agriculture, SCL water-retention technology, and data-driven irrigation.
 
+## Survey Results
+
+I also conducted a small student questionnaire about SCL technology, climate change, and sensor-guided smart agriculture. The survey received 30 valid responses and provided context for the design of this prototype.
+[View the survey results]
+
 ## License
 
 MIT License
